@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>Bilingual Text-Driven Human Motion Generation</strong></h1>
+<h1 align="center"><strong>Bilingual Text-to-Motion Generation: A New Benchmark and Baselines</strong></h1>
 <p align="center">
  <a href='https://github.com/wengwanjiang' target='_blank'>Wanjiang Weng<sup>*</sup></a>&emsp;
  <a href='https://xiaofeng-tan.github.io/' target='_blank'>Xiaofeng Tan<sup>*</sup></a>&emsp;
