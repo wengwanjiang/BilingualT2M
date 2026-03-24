@@ -21,10 +21,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-See_LICENSE-blue.svg" alt="License"></a>
 </p>
 
-<p align="center">
-  <strong>Wanjiang Weng</strong> et al.<br>
-  <!-- Update affiliations and author order according to the camera-ready version -->
-</p>
 
 This repository is the reference implementation of our paper. For questions about the code or collaboration, please reach out by email wjweng@seu.edu.cn
 
