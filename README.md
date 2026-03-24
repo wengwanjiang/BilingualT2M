@@ -1,5 +1,16 @@
-<h1 align="center"><strong>Bilingual Text-Driven Human Motion Generation</strong></h1>
 
+<h1 align="center"><strong>Bilingual Text-Driven Human Motion Generation</strong></h1>
+<p align="center">
+ <a href='https://github.com/wengwanjiang' target='_blank'>Wanjiang Weng<sup>*</sup></a>&emsp;
+ <a href='https://xiaofeng-tan.github.io/' target='_blank'>Xiaofeng Tan<sup>*</sup></a>&emsp;
+ Junbo Wang&emsp;
+ Guo-Sen Xie&emsp;
+ Pan Zhou&emsp;
+ Hongsong Wang<sup>†</sup>&emsp;
+  <br>
+  *Equal Contribution&emsp;
+  †Corresponding Author
+</p>
 
 <p align="center">
   <!-- Replace with official links after publication -->
