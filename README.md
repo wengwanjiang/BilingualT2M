@@ -54,8 +54,6 @@ This repository is the reference implementation of our paper. For questions abou
 ## News
 
 - **[2026/03]** Released training and evaluation code; **English / Chinese / bilingual** HumanML3D text modes are selectable via config.
-- **[2026/03]** Camera-ready PDF added at the repository root (see above).
-
 ---
 
 ## Plan and TODO
