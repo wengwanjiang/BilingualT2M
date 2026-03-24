@@ -1,0 +1,11 @@
+# text_encoder:
+#   target: mld.models.architectures.mld_clip.MldTextEncoder
+#   params:
+#     last_hidden_state: false
+#     modelpath: ${model.t5_path}
+text_encoder:
+  target: mld.models.architectures.StuXLM.StudentModel
+  params:
+    #last_hidden_state: false
+    kd_version: ${model.kd_version}
+    #modelpath: ${model.stuxlm_path}

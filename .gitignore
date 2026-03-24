@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.ckpt
+*.pth
+*.pt
+wandb/
+lightning_logs/
+*.log
+.DS_Store
+*.swp
+*.swo
+.venv/
+venv/
+*.env
+*.bin
+*.pkl
+deps/*
+# 本地 IDE（可选保留团队共享配置时再移出）
+.vscode/
+.idea/
+private
+datasets/humanml3d
+experiments*
+# 大型实验输出（按需取消注释）
+# experiments_t2m_test/
+# experiments_recons/

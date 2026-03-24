@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python -m train_mld --cfg configs/mld_t2m.yaml
